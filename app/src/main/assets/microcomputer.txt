@@ -1,0 +1,20 @@
+Status flags represent one of the simplest forms of microcomputer logic. 
+状态标志是微计算机逻辑中的一种最简单的形式之一. 
+A newly - devised microcomputer can act as a guide to a blind person. 
+一种新设计的微型计算机能够充任盲人的向导. 
+A commonly used microcomputer algorithm for multiplication. 
+微型计算机一种常用的乘法算法. 
+ The processing section of our microcomputer is complete. 
+微计算机的处理部分叙述完毕. 
+To meet this goal, a microcomputer controlled hybrid powertrain was designed and built. 
+为了达到这一目标, 设计和制造了微计算机控制的混合式动力装置. 
+Physical units transmit information to and from the microcomputer via appropriate interface logic. 
+各种实体设备能够通过适当的接口逻辑电路对计算机传输(输入或输出)信息. 
+To transfer data from a device such as microcomputer to a processing unit. 
+将数据从一设备(诸如微型机)传送到处理机的过程. 
+Serial Transfer Between IBM - PC  Microcomputer  and Single Board Computers. 
+SIO串行接口电路的智能编程. 
+ Development of 51 single - chip microcomputer - based file system, fat 16 and achieve a fat 32. 
+基于51单片机开发的文件系统, 实现了fat16和fat32. 
+ Controlled by microcomputer, displayed by big LCD, printing reports. 
+采用微电脑控制, 大屏幕液晶中文菜单显示, 打印输出中文报表. 

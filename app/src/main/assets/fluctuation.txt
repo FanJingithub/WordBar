@@ -1,0 +1,20 @@
+The calculations do not take into account any fluctuation in the share price.
+这些计算没有考虑到股价的波动。
+A firm secures a needed commodity and is protected against price fluctuation. 
+公司得到需要的商品,而且不会由于价格变动而受损失. 
+The erratic fluctuation of market prices is in consequence of unstable economy.
+经济波动致使市场物价忽起忽落。
+Sometimes temporal fluctuation may take place inthe local velocity. 
+有时,在局部速度中可能出现瞬时脉动. 
+Using this approach, we can abstract from fluctuation in Aggregate Demand. 
+运用这一方法, 我们可以抽掉总需求中不断变化的因素. 
+The amount of fluctuation is also affected by bed configuration. 
+变化的幅度也受河床形状的影响. 
+The erratic fluctuation of market prices are in consequence of unstable economy. 
+经济波动致使市场物价忽起忽落. 
+Early and adequate drainage is essential if fluctuation occurs. 
+有波动感时,应及早地充分引流. 
+Such grids effectively smooth out the velocity fluctuation above the dense bed. 
+栅格在密相床层上有效地使速度波动平缓起来.
+ Gold prices on the London market are expected to flatten out after a period of fluctuation. 
+一段时间的波动后,预料伦敦市场的黄金价格将稳定下来了. 

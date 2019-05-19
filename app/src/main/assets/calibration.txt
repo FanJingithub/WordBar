@@ -1,0 +1,20 @@
+It can be corrected to allow for any small drift in calibration. 
+它可对标定中出现的任何小漂移进行修正. 
+ It is advisable to check the instrument by frequent calibration. 
+最好通过经常的校准来检查仪器. 
+These data can be plotted to form a calibration curve. 
+这些数据可以绘制成一校准曲线. 
+The instrument is very delicate for general calibration purposes. 
+这种仪器作为一般的标定是很精确的. 
+The torquing current is measured and related to drift rate by prior calibration data. 
+测出产生力矩的电流,然后根据事先校正的数据来算出飘移率. 
+ Contained within the ECM is a removable calibration unit, on  programmable  read - only memory . 
+包含在ECM内的是一个可动的校正装置, 或是可编程序的 读存储器. 
+Repeat the preparation of standards starting with pure solutions until successive calibration curves agree within 10 %. 
+重复配制标准溶液(从纯溶液开始)直至逐次的标准曲线彼此偏差均在10%以内. 
+This is necessary because the loads are usually applied normal to the calibration fixture surface. 
+之所以有此需要,是因为所加载荷通常是垂直于校准装置平面的. 
+A few remarks must finally be made concerning the calibration of scintillation detectors. 
+最后需要讲几点关于闪烁探测器校正方面的注意事项. 
+ Calibration tests are standard procedures applied to sensors not eliminated by screening tests. 
+校准试验是对筛选试验中未被淘汰的传感器进行试验的标准测试程序. 

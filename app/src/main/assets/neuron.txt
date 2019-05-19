@@ -1,0 +1,20 @@
+Information is transferred along each neuron by means of an electrical impulse.
+信息在电脉冲作用下经神经元传递。
+The body of a neuron. Acts approximately as a linear threshold element. 
+神经元的本体, 其作用近似于一种线性阀值器件. 
+Impulse acts as a message sent through a neuron. 
+冲动相当于通过神经元传送的信息. 
+A neuron has only one axon. 
+一个神经元只有一个轴突. 
+An neuron can have one or several dendrites. 
+一个神经元有一个或数个树突. 
+The rest is broken down by enzymes or reabsorbed by the releasing neuron. 
+其他5—羟色胺由酶分解掉,或者被正在释放中的神经元重新吸收. 
+Two specialized epidermal cells and a bipolar neuron are associated with each sensillum. 
+一个感器联结着两个特化的真皮细胞和一个双极神经元. 
+A typical result of an upper motor neuron lesion is paralysis of voluntary movement. 
+典型的上位运动神经之损伤就会导致随意运动麻痹. 
+An influence on a post - synaptic neuron which reduces the probability that the neuron emit a spike. 
+施加在突触后神经元上的、使其减少发出冲动的一种影响. 
+ The article has done detailed research to Neuron chip, LonTalk communication protocol, network variables etc. 
+文章对LonWorks总线 中的Neuron芯片 、 LonTalk通信协议 、 网络变量等作了详细的研究.

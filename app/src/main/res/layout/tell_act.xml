@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorPrimary" >
+        <Button
+            android:id="@+id/back_tell"
+            android:background="@drawable/icon_back"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:padding="10dp"
+            android:layout_marginBottom="10dp"
+            android:text=""/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="帮助说明      "
+            android:textColor="#ffffff"
+            android:textSize="25sp"
+            android:gravity="center_horizontal" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="80dp">
+        <TextView
+            android:id="@+id/AA1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:textSize="16sp"
+            android:padding="12dp"
+            android:text="     本软件的主要作用是“词汇量保温”。当我们用别的方法将单词记了几遍之后，如果平时不运用这些单词，不出两个月，这些单词基本上都会忘得差不多。当然学霸的你可能经常阅读英文资料，阅读过程中便能保温你的词汇量。本应用试图模拟阅读情景，每篇小阅读便是一个句子，并且包含了你希望复习的单词。"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+    </ScrollView>
+
+
+</RelativeLayout>

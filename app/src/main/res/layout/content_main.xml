@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="0dp"
+    android:background="#ffffff">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorPrimary">
+        <Button
+            android:id="@+id/a_menu"
+            android:background="@drawable/icon_menu_a"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="7"
+            android:layout_height="match_parent"
+            android:text=""
+            android:textColor="#ffffff"
+            android:textSize="24sp"
+            android:gravity="center" />
+        <Button
+            android:id="@+id/a_help"
+            android:background="@drawable/my_help"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/main_text2"
+        android:layout_width="360dp"
+        android:layout_height="80dp"
+        android:text="单词保温大本营"
+        android:layout_marginTop="200dp"
+        android:textSize="35sp"
+        android:textColor="@color/colorPrimary"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        tools:textStyle="bold" />
+
+    <Button
+        android:id="@+id/show_list"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/go_it"
+        android:textSize="25sp"
+        android:layout_below="@+id/main_text2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp" />
+
+
+    <Button
+        android:id="@+id/show_tell"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@drawable/sm_1"
+        android:layout_marginLeft="28dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginBottom="56dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:visibility="invisible"/>
+    <Button
+        android:id="@+id/show_click"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@drawable/click"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="50dp"
+        android:visibility="invisible"/>
+
+    <TextView
+        android:id="@+id/main_text"
+        android:layout_width="360dp"
+        android:layout_height="80dp"
+        android:text="Word Bar"
+        android:textSize="45sp"
+        android:textColor="@color/colorPrimary"
+        android:gravity="center_horizontal"
+        android:layout_above="@+id/show_list"
+        android:layout_alignLeft="@+id/main_text2"
+        android:layout_alignStart="@+id/main_text2"
+        android:layout_marginBottom="70dp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

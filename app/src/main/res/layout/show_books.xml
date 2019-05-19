@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_glass_3">
+
+    <LinearLayout
+        android:id="@+id/head_c"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorPrimary" >
+        <Button
+            android:id="@+id/back_showbook"
+            android:background="@drawable/icon_back"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:padding="10dp"
+            android:layout_marginBottom="10dp"
+            android:text=""/>
+        <TextView
+            android:id="@+id/head_cet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="选择词库      "
+            android:textColor="#ffffff"
+            android:textSize="25sp"
+            android:gravity="center_horizontal" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/to_cet"
+        android:layout_width="300dp"
+        android:layout_height="120dp"
+        android:background="@drawable/book_cet6"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp" />
+
+    <Button
+        android:id="@+id/to_fet"
+        android:layout_width="300dp"
+        android:layout_height="120dp"
+        android:background="@drawable/book_toefl"
+        android:layout_marginTop="27dp"
+        android:layout_below="@+id/to_cet"
+        android:layout_alignLeft="@+id/to_cet"
+        android:layout_alignStart="@+id/to_cet" />
+
+    <Button
+        android:id="@+id/to_toefl"
+        android:layout_width="300dp"
+        android:layout_height="120dp"
+        android:background="@drawable/book_toefl_only"
+        android:layout_marginTop="27dp"
+        android:layout_below="@+id/to_fet"
+        android:layout_alignLeft="@+id/to_cet"
+        android:layout_alignStart="@+id/to_cet" />
+
+
+</RelativeLayout>

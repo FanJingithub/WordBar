@@ -1,0 +1,20 @@
+The magnetic field of the earth creates a torque around the pivot. 
+地球的磁场在支点周围产生一个转矩. 
+The error torques include mass unbalances, compliances, bias torque, etc. 
+误差力矩包括质量不平衡, 柔性, 偏置力短, 等等.
+The pendulum - torque type of erector is extensively employed on gyro verticals. 
+陀螺垂直器上广泛地采用由摆和力矩马达组成的修正装置. 
+ The torque of the couple is intimately associated with a couple. 
+力偶矩与力偶密切相关. 
+The transmission of an automobile engine is often called a " torque converter ". 
+汽车发动机是由 “ 转矩转换器 ” 来传送功率的. 
+The torque applied to the whole assembly was measured at D. 
+整个组件所受的转矩可在D上测出. 
+To preserve the same twist, the torque should also be the same. 
+为保持相当的扭转, 扭矩也应该具有相同的比例. 
+The total internal torque in any system is equal to zero. 
+任何一个系统,其总内转矩等于零. 
+Qualitatively, a torque is a " twist ". 
+定性地说, 转矩就是扭转. 
+ The counterrotation reduces the net friction torque. 
+反向旋转减少了净摩擦力. 

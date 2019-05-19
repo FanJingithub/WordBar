@@ -1,0 +1,20 @@
+the angle of deflection
+偏斜度
+The smallest deflection of the missile could bring disaster. 
+导弹有极微小的偏斜也可能酿出大祸. 
+Starlight passing close to the sun should experience some deflection. 
+从太阳近旁通过的星光会受到某种偏折. 
+Compatibility will require that the girder deflection at B be zero. 
+根据协调性的要求,梁在B点的挠度应为零. 
+This azimuth motion is known as the ballistic deflection error. 
+这种绕方位轴的运动称为冲击偏差. 
+The gage deflection is due to the momentum transfer. 
+压力计的偏转是由于动量交换的原因. 
+Excessive deflection in a structure may cause considerable damage to cladding. 
+结构的过大挠度可以引起覆盖面的巨大破坏. 
+ Positive  aileron deflection produces an anti - clockwise moment about the X axis. 
+正的副翼偏转角产生绕X轴的负方向力矩. 
+The range is usually limited to the full - scale deflection of the indicator. 
+量程通常以指针的全分度偏转为限. 
+ Each interaction produces an energy loss and deflection. 
+每次相互作用都引起粒子能量损失和方向偏转. 

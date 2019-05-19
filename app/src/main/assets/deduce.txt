@@ -1,0 +1,20 @@
+Can we deduce from your silence that you do not approve?
+你保持沉默，我们是否可以据此而推断出你不赞成？
+The police were able to deduce where the fugitive was hiding. 
+警方成功地推断出那逃亡者躲藏的地方. 
+We can deduce a conclusion from the premise. 
+我们可以从这个前提推出结论. 
+If you see a doctor leaving a house, you may deduce that someone in the house is ill. 
+如果你看见一个医生从某一家出来, 你就可以推知这家有人病了. 
+We will now deduce the properties of a single element. 
+现在我们推导单个无素的性质. 
+He expected to deduce new ones by mathematical means. 
+他期望用数学方法得出一些推论. 
+I imagine that you may deduce an apt moral from my tale. 
+我觉得你也许能从我的际遇中引出恰当的教训. 
+What do you deduce from these facts? 
+从这些事实你能推断出什么? 
+Beyond the obviousfacts, I can deduce nothing else. 
+除了这些显而易见的情况以外, 我推断不出别的什么. 
+ We shall deduce the result from a lemma about Euler trails in directed multigraphs. 
+我们用一个关于有向重图中尤拉迹的引理来证明这个定理. 

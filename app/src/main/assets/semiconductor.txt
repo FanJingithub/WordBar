@@ -1,0 +1,20 @@
+Semiconductor devices  can perform a variety of control functions in electronic equipment. 
+半导体器件在电子设备中能起各式各样的控制作用. 
+In semiconductor receivers transistors take the place of vacuum tubes. 
+在半导体收音机中晶体管代替了真空管. 
+This is a semiconductor integrated circuit. 
+这是一个半导体集成电路. 
+The conductor is reluctant to reduce the conductivity of the semiconductor.
+导演不情愿降低半导体的导电率。
+A further  refinement  in semiconductor technology is the integrated circuit. 
+在半导体工艺中,集成电路是一次革新. 
+In the beginning, engineers hoped to use semiconductor lasers. 
+在开始时, 工程师们希望能够利用半导体激光器. 
+The idea underlying the semiconductor counter is old. 
+半导体计数器的基本原理还是旧的. 
+Thermistors are semiconductor devices with temperature. 
+热敏电阻是一种半导体元件,它的电阻随温度而变化. 
+These crystals are the basis of the semiconductor  chips  which run modern computers. 
+现代计算机里使用的半导体芯片都少不了这种结晶体. 
+ Electrons from the metal will have to surmount the potential barrier to enter the semiconductor. 
+金属中的电子必须克服这个势垒层才能进入半导体. 

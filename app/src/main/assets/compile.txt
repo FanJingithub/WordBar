@@ -1,0 +1,20 @@
+The book took 10 years to compile.
+编这本书花了10年时间。
+We are trying to compile a list of suitable people for the job.
+我们在努力编制一份适合做这项工作的人员名单。
+It takes years of hard work to compile a good dictionary. 
+编辑一部好词典需要数年的艰苦工作. 
+The girl sat down with a police artist to compile a Photofit of her attacker.
+女孩坐着和警方画像专家一起模拟拼绘攻击她的人的画像。
+Councils were required to compile a register of all adults living in their areas.
+各地政务委员会被要求编制一份该地区成年居民的名册。
+There they compile precious documents on the manners, government, religion, fauna  and flora of the country. 
+他们在这里搜集了不少关于风俗 、 政府 、 宗教 、 当地动植物等方面的宝贵资料. 
+It is necessary to compile a network of locations with the required environmental measurements. 
+必须编排具有所需环境测量的地点网. 
+Mentally, at least, most of us could compile formidable lists of " do's " and " don'ts ". 
+我们中大多数人至少在心中会考虑着一系列 决心 要做和 决心 不做的事情. 
+Subject: sound file player demo, please use the Visual C ++, Compile directly to the Executive. 
+主题: 声音文件播放演示请使用VisualC++, compile后直接执行即可. 
+ Put condor _ compile in front of your usual link command. 
+最好把condor_compile放在你的日常连接命令之前. 

@@ -1,0 +1,20 @@
+Nerve cells have limited ability to regenerate if destroyed.
+如果受到损伤，神经细胞再造的能力有限。
+They decided a housing co-operative was the way to regenerate Ormiston Crescent.
+他们最终决定通过住房合作社来重建奥米斯顿月牙街。
+The govern-ment will continue to try to regenerate inner city areas.
+政府将继续努力重建内城地区。
+Newts can regenerate their limbs.
+蝾螈的肢体可以再生。
+The money will be used to regenerate the commercial heart of the town.
+这笔钱将用来发展壮大市镇的商业中心。
+This creature's tail will regenerate if it is cut off. 
+这种动物的尾巴如果被割掉,会再生出来. 
+This creature's tail will regenerate if it's cut off. 
+这动物的尾巴割掉会再长的. 
+They do not regenerate through the control loop. 
+它们不能通过控制回路来恢复.
+Their aim is to regenerate British industry. 
+他们的目的是复兴英国的工业. 
+  To regenerate data in storage units where the process of reading data results in its destruction. 
+重新恢复数据,即对存储单元中因读取数据而造成的数据破坏进行恢复. 

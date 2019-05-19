@@ -1,0 +1,20 @@
+In his art he broke the laws of scientific linear perspective.
+他在自己的绘画艺术中打破了科学的直线透视法规律。
+He's making  linear measurements. 
+他正在进行长度测量. 
+Her novel subverts the conventions of linear narrative. It has no neat chronology and no tidy denouement.
+她的小说颠覆了线性叙事的传统，没有清晰的时间线索，也没有简单明了的结局。
+Every basis of a linear space contains the same number of vectors. 
+一线性空间的每一基底包含同样数目的向量. 
+One significant development was the introduction of linear programming. 
+一个重大的发展是线性规划的采用. 
+Every function whose derivative is linear is a quadratic function. 
+任意一个导数为线性函数的函数都是二次函数. 
+Growth can be represented by a linear or log linear trend. 
+增长可以用线性或对数线性趋势来表示. 
+A linear transformation on Milbert space is called compact ( also completely continuous ). 
+希尔伯特空间上的线性变换叫做紧的 ( 也叫全连续的 ). 
+In linear theory there is no difference between Eulerian and Lagrangian descriptions. 
+在线性理论中,欧勒描述和拉格朗日描述之间是没什么不同的. 
+ Such steps mean the simultaneous solution of either two linear equations. 
+这样的步骤意味着同时求解两个线性方程. 

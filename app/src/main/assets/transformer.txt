@@ -1,0 +1,20 @@
+He switched off the transformer and the buzzing stopped.
+他关掉变压器，嗡嗡声就消失了。
+Keep away from the transformer. 
+不要靠近那个变压器. 
+We traced the trouble to a faulty transformer. 
+我们查出故障出在一个有毛病的变压器上. 
+ The transformer isolates the transistors with regard to d - c bias voltage . 
+变压器可在两个晶体管之间隔离直流 偏压. 
+ A step - down transformer has a turns ratio less than 1. 
+ 降压变压器 的匝数比小于1. 
+Open tender for purchasing power transformer. 
+公开招标购买电力运输设备. 
+A linear differential transformer has three coils. 
+一个直线差动变压器有三个线圈. 
+The transformer  substation survived the blast with relatively minor damage to the essential components. 
+经爆震波袭击后未被毁坏的变电站的重要组件受到较小的损坏. 
+Fig. 9 shows schematically the application of a differential transformer to measurement of liquid column height. 
+应用差动变压器测定液柱高度大致如图9所示. 
+ The substation equipped with a transformer of 500 KVA is at the south of the plant. 
+在工程的南边有一座装有五百千伏安变电器的变电站. 

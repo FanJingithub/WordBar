@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_glass_3">
+
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="500dp"
+        android:background="#ffffff"
+        android:layout_centerInParent="true">
+        <TextView
+            android:id="@+id/word_name"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:text="word"
+            android:textSize="40sp"
+            android:paddingLeft="10dp"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:background="#e4e7ce"/>
+        <TextView
+            android:id="@+id/word_ann"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="yinbiao"
+            android:textSize="20sp"
+            android:layout_below="@id/word_name"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:paddingLeft="10dp"/>
+        <WebView
+            android:id="@+id/word_mp3"
+            android:foreground="@drawable/icon_voice"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:layout_toRightOf="@id/word_ann"
+            android:layout_below="@id/word_name"
+            android:layout_marginTop="20dp"
+            android:padding="1dp"
+            android:visibility="invisible">
+        </WebView>
+
+        <Button
+            android:id="@+id/vv"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:text=""
+            android:foreground="@drawable/icon_voice1"
+            android:layout_toRightOf="@id/word_ann"
+            android:layout_below="@id/word_name"
+            android:layout_marginTop="20dp"
+            android:padding="1dp"/>
+        <TextView
+            android:id="@+id/word_exp"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:text="exp"
+            android:textSize="20sp"
+            android:layout_below="@id/word_mp3"
+            android:layout_marginTop="40dp"
+            android:paddingLeft="20dp"/>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

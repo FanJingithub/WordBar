@@ -1,0 +1,20 @@
+The dynamo conked out so we've got no electricity.
+发电机出了故障，所以停电了。
+The operation was given the code name Dynamo.
+这次行动的代号为“发电机”。
+the team's midfield dynamo
+这个队的中场发动机
+He has a bicycle with lights powered by a dynamo. 
+他自行车上的灯由发电机提供能源. 
+That victory put the Ukrainians beyond the reach of their nearest challengers, Dynamo Moscow.
+本场胜利使乌克兰人甩开了最强有力的对手，莫斯科迪那摩队。
+Myles is a human dynamo.
+迈尔斯是个精力充沛的人。
+They fastened exclusively on the dynamo of the latest design. 
+他们的注意力完全集中在最新式的发电机上. 
+A dynamo is used to generate electricity. 
+发电机用于发电. 
+The model adopts DYNAMO language specialized in system dynamics analysis to conduct imitation calculation. 
+模型采用系统动力学专用的DYNAMO语言实现模拟运算. 
+ Finally, the paper gives the summery of the diesel dynamo test system. 
+最后对所研究的柴油发电机组试验系统进行了总结. 

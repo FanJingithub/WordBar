@@ -1,0 +1,20 @@
+They now take extra steps to verify the creditworthiness of customers.
+他们现在又采取额外措施来核实客户的信用度。
+I can verify that it takes about thirty seconds.
+我能证明，这大约要用30秒的时间。
+Inspectors were sent to visit nuclear sites and verify compliance with the treaty.
+监督员被派去视察核武器基地并核实条约的遵守情况。
+People began verify their scientific hypotheses by stringent tests. 
+人们开始用精确的试验证实自己的科学假说. 
+I have been hunting through all sorts of books to verify this. 
+我查了好多书来核实这一点. 
+Please verify each item you have pricked down. 
+请把你已用小记号标出的每一个项目核对一下. 
+The job of the inspectors is to verify that Iraq's regime is disarming. 
+这些核查人员的任务是核实伊拉克政权解除武装的情况. 
+A process used to verify the integrity of transmitted data, especially a message. 
+用来验证发送的数据, 特别是一个信息的完整性的过程. 
+You can easily verify these conclusions if you happen to have a piece of polaroid. 
+如果你手头有一片偏振片,就容易证实上面这些结论.
+ In this simple example we may verify the result readily by analyzing the network. 
+对于这个简单的例子,我们通过分析网络可以很容易验证其结果的正确性. 

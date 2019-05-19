@@ -1,0 +1,20 @@
+Let me iterate that we have absolutely no plans to increase taxation.
+让我再一次重申我们绝对没有增税的计划。
+At Google, we have a saying: " launch early and iterate. " 
+在谷歌, 我们有个说法: “ 尽早更新,多多申明. ” 
+In modeling, there are ways you can iterate towards the right solution. 
+关于建模, 以下方法能让你一直朝着正确的解决方法前进. 
+If so, it must iterate the entire invocation list. 
+如果是, 它必须迭代整个调用列表. 
+Iterate the Schedule with the Code. 
+通过代码对进度表进行迭代. 
+How do you iterate over a type list? 
+如何迭代这样一个类型类别? 
+Iterators iterate through the container in an arbitrary order, that can change as elements are inserted. 
+迭代器按任意顺序遍历容器, 由元素被插入时还可能改变.
+Iterators iterate through the container in the order defined by the comparison object. 
+迭代器按照由比较函数对象所定义的顺序遍历容器. 
+Stories work well for iterative development because it is also possible to iterate over the stories. 
+故事在迭代中很管用.一个故事可以在多个迭代中出现. 
+ Next it releases the signal's mutex, before invoking the combiner to iterate through the slot list. 
+接着,它会在调用合并器遍历插槽链表之前,释放信号的互斥体. 

@@ -1,0 +1,20 @@
+Societies need to develop highly adaptive behavioural rules for survival.
+社会需要发展具有高度适应性的生存行为规则。
+Adaptive strategies may often evolve, such as the biochemical polymorphisms of blood and serum groups. 
+适应策略也常常进化, 例如:血型和血清的生化多形现象就是这样的. 
+Simplified hough transformation ( HT ) and adaptive including box method ( AIB ) approach are proposed. 
+提出了简化的霍夫变换HT ( Hough　 Transform ) 方法和适应性包容盒AIB ( Adaptive　Including　Box ) 原理.
+Living in the oceans presented the sea snake with a host of tricky adaptive challenges. 
+海洋生活给了海蛇很多机警的适应性的挑战. 
+ Main work include : 1 A method of adaptive DBF in received antenna array. 
+1讨论了在接收阵列天线中,自适应数字波束形成(DBF)的方法,引入了 采样 梯度矩阵算法.
+This paper presents an adaptive search mechanism for mobile P 2 P networks. 
+给出一种移动P2P网络中的自适应搜索机制. 
+In an adaptive environment , however, deviations guide us towards the correct solution. 
+但是,在适应性环境中, 背离引导我们走向正确的答案. 
+Applied the markov process in the Structure Adaptive Control method. 
+将马尔科夫过程应用于结构自适应控制方法中. 
+ Is  contractors 'bidding competitiveness under the governance of the adaptive learning mode? 
+承包商的投标竞争力是处于合适的学习模式的控制下 吗 ?
+ A semi - supervised learning system was proposed based on ART ( adaptive resonance theory ). 
+摘要根据自适应谐振理论提出了半监督学习自适应谐振理论系统. 

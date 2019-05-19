@@ -1,0 +1,20 @@
+Acceleration and velocity are both vectors.
+加速度和速度都是矢量。
+the velocity of light
+光速
+Einstein's theory links energy with mass and velocity of light. 
+爱因斯坦的理论把能量同质量和光速联系起来. 
+ The velocity of light is about 300000 kilometres per second. 
+光速约为每秒300000公里. 
+ A bullet goes from this gun with a velocity of 3000 feet per second. 
+此枪射出的子弹,其速度为每秒3000英尺. 
+The study used relatively small values of superficial gas velocity. 
+这项研究采用相当小的表观气速. 
+The atomic particles resist being accelerated past the velocity of light. 
+这些原子粒子无法被加快到超过光速. 
+Normally the shear velocity is about half of the compressional velocity. 
+一般地说横波速度大约是纵波速度的一半. 
+Amplifier self - oscillates at a frequency depending on the velocity of the fluid. 
+放大器自激振荡的频率就取决于流体的速度.
+ They sediment toward the bottom of the centrifuge tube at a velocity. 
+它们以某一速度向管底方向沉降. 

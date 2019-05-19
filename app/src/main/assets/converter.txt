@@ -1,0 +1,20 @@
+The circuit structure is using a fly-back converter voltage.
+这个转换器是利用返驰式电路架构实现。
+The successive approximation converter is of medium speed, and average resolution. 
+逐次逼近式转换器具有中等的速度和分辨率. 
+The output of the sample - and - hold system now goes into an analog - to - digital converter. 
+取样和保持系统的输出现在又进入一个模数转换器. 
+The transmission of an automobile engine is often called a " torque converter ". 
+汽车发动机是由 “ 转矩转换器 ” 来传送功率的. 
+ The air guards the catalytic converter from overload and possible resulting damage. 
+空气防止了催化式排气净化器的过载及可能产生的损坏. 
+This double converter arrangement would be expensive. 
+这两个转化器设备是昂贵的. 
+Another reason for banning lead in gasoline is that the lead can ruin the catalytic converter. 
+禁止汽油里含铅的另一个原因,是铅能损坏催化式排气净化器. 
+Even though this converter has 12 bits of resolution, only 8 are used in this example. 
+虽然这一转换器具有十二位的分辨率, 但在本例中只用了八位. 
+ The high level of HC in the exhaust gas may damage the catalytic converter. 
+废气中大量的HC会损坏催化式排气净化器. 
+ A MEMS sensor research platform based on micro - converter AD μ C 832 is presented. 
+提出一种基于微转换器(Micro-Converter)的MEMS传感器组合研究平台.

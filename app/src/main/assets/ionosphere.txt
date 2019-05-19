@@ -1,0 +1,20 @@
+The ionosphere is that region of space contatining electrically charged species. 
+电离层是指含有带电物质的空间区域. 
+Its upper limit is determined by the conditions in the ionosphere. 
+其上限由电离层的状态而决定. 
+Rockets and artificial satellites can go far above the ionosphere. 
+火箭和人造卫星能够到达电离层以上极远的地方. 
+Their main limitation is that they are incapable of rising to the ionosphere. 
+他们主要局限性是不能上升到电离层. 
+The SPS was also capable of causing physical changes in the ionosphere. 
+太阳能卫星还能够在电离层中引起物理改变. 
+In radio communications, one of the three regions which form the ionosphere. 
+在无线电通信中, 电离层的三个分区之一. 
+It is componented by the space ionosphere's reflection against short wave. " 
+它是利用空间电离层对短波的反射构成的. 
+The ionosphere is an important error source of GPS positioning. 
+电离层是GPS定位的主要误差源. 
+It traps charges, lowering the voltage on the ionosphere, and on us. 
+它挡住了电荷(挡住了太阳风), 使电离层的电压降低, 也使我们身体上感应的电压降低. 
+ Above the troposphere is the stratosphere, followed by the ionosphere and capped by the exosphere. 
+在对流层上是平流层, 接着是电离层,最上层是外逸层. 

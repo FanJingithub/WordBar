@@ -1,0 +1,20 @@
+The gauge relies upon a sensor in the tank to relay the fuel level.
+油表靠油箱里的感应器来显示燃料的液位。
+The temperature sensor is making the computer think the engine is cold when, in fact, it's hot.
+温度传感器发给计算机的信息为发动机是冷却的，可实际上它的温度很高。
+If you buy a drier, look for one with a sensor which switches off when clothes are dry.
+你若要买烘干机，找一台带感应器的，可以在衣服干的时候自动断电。
+The temperature sensor is enclosed in a protective well. 
+温度传感器密封在保护套管中. 
+The basic sensor input for the system is a four - gimbal stable platform. 
+系统的基本敏感器输入是一个具有四个方向支架的稳定平台. 
+A small electrical sensor failed at a power station in eastern Canada. 
+加拿大东部一个电站中的一个小小的电传感器发生了故障. 
+The bimetal element is the simplest and most often encountered sensor. 
+双金属元件是一种最简单和最常见的传感器. 
+A control block containing information related to sensor I / O operations. 
+一种含有与传感器输入输出操作有关信息的控制块. 
+ Self - contained system incorporates sensor, controller and controlled device in a single package. 
+直接作用 式 系统统统装在一只简单的匣子里,它包含传感器, 控制器和调节机构. 
+ He plugged the sensor into a outlet. 
+他把传感器插进电源插座. 

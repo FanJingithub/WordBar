@@ -1,0 +1,20 @@
+This piece of equipment needs a thirty - ampere fuse. 
+这设备需要30安培的熔丝. 
+The units in which we show voltage and current are volt and ampere respectively.
+我们用以表示电压和电流的单位分别为伏特和安培。
+Isabel, with her eyes bent, fingered the pages of M ? Ampere. 
+伊莎贝尔垂下了眼皮, 用手指 拨弄 着安培的书. 
+ The SI system therefore takes the ampere as one of its fundamental units. 
+因此,SI制取安培作为它的基本单位之一. 
+Ampere The ampere is a unit of current flow. 
+安培安培是电流单元. 
+Built - in rotary switch, button, ampere meter, indicating lamp etc. 
+内装转换开关 、 电流表 、 按钮 、 指示灯等.
+ A unit of electric current equal to one an ampere. 
+旧制电流单位(略小于一安培). 
+A 15 ampere fuse melts if the current exceeds 15 amperes. 
+如果电流超过15安培,则15安培的保险丝就熔化. 
+All range voltage, Ampere meter , can suit the demand of customer. 
+任意量程的交直流电压 、 电流表均可按用户要求供货. 
+ A 10~ ( - 14 ) A pico - ampere current meter made of integrated circuit CA 3420 is presented. 
+用集成电路CA3420可制成10~ ( -14 ) A高灵敏微电流计.

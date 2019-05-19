@@ -1,0 +1,20 @@
+The device is manually operated, using a simple handle.
+一只普通的手柄就可以手动操作这个装置。
+The doors can be manually operated in the event of fire. 
+发生火灾时,这些门可以手动控制. 
+You may need to enter this information manually. 
+你可能需要手工输入这条信息. 
+ This was formerly done manually, but is semi - automatic on the latest models. 
+以前用手工来完成这种操作, 在最新的仪器中是半自动的. 
+Add code manually to handle UI events. 
+手工加代码处理UI事件. 
+ All cracks were detected in regions where such manually made weld passes existed. 
+所以检查到的裂纹都位于有手工焊缝存在的区域.
+In univariate analysis the computer is often performing functions that could be undertaken manually. 
+在单变量分析中,计算机常常运算一些用手工亦可进行的函数. 
+Information for configuring your client machines manually can be found below. 
+在下面可以找到关于手动配置客户端计算机的信息. 
+The accountant used input manually through a voucher system to General Ledger. 
+用手动的会计凭证制度,通过输入总帐. 
+ Maintains and updates sales records manually and electronically as required. 
+手工或是用电脑保留和更新销售记录.

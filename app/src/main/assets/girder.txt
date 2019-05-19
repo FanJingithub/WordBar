@@ -1,0 +1,20 @@
+Compatibility will require that the girder deflection at B be zero. 
+根据协调性的要求,梁在B点的挠度应为零. 
+Most often this involved a segment of a girder web. 
+大多数出现在主渠腹板部分. 
+The cross girder center segments of the bents were field bolted. 
+构架横梁的中间段在工地用螺栓连接.
+The successful alternative was the cast - in - place segmental prestressed concrete box girder. 
+最后采用的方案是分段现浇的预应力混凝土箱形梁. 
+A steel girder may warp in a fire. 
+钢梁遇火会变弯. 
+A test load was applied to the girder. 
+一个试验载荷作用于该梁上. 
+The longitudinal girder forms part of the parapets. 
+纵梁成为栏杆的一部分. 
+The girder is braced against an erection bracket. 
+梁支撑在塔柱上的一个施工托架上. 
+The scheme is a transition between the box girder with vertical piers and the true arch. 
+该结构是具有垂直墩的箱梁桥钢与真正的拱桥之间的一种过渡形式. 
+ In the tie girder boxes crack growth was detected near the crack tip. 
+在系杆箱型梁中裂纹尖端附近检测到裂纹的扩展. 

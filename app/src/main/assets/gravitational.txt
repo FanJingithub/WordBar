@@ -1,0 +1,20 @@
+A neutron star has a gravitational field strong enough to generate X-rays.
+中子星上存在强大的重力场，足以产生X射线。
+Its oscillation depends on the strength of the gravitational field.
+它的振动幅度取决于引力场的强度。
+the gravitational pull of the moon
+月球的引力
+Dark matter gives out no light and is detectable only because of its gravitational effect on visible matter.
+暗物质不发光，它之所以能被发现，只是因为它对可见物质产生引力作用。
+If a spacecraft travels faster than 11 km a second, it escapes the earth's gravitational pull.
+如果飞行速度超过每秒11公里，宇宙飞船将摆脱地球的引力。
+Under the action of universal gravitational forces the small perturbations will grow. 
+在万有引力的作用下,小扰动会加强. 
+Properties of space must depend on the gravitational potential. 
+空间性质一定与引力势有关.
+The gravitational interaction is disregarded when interactions between individual protons are considered. 
+在考虑单个质子间相互作用时,万有引力可以忽略不计.
+Inertial forces and gravitational forces are indistinguishable. 
+惯性力与引力是不可区分的. 
+  Sensitive machines are being built in several laboratories throughout the world to detect gravitational waves. 
+世界上有好几个实验室正在建造灵敏的仪器,希望能探测到引力波. 

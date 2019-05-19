@@ -1,0 +1,20 @@
+At room temperature, the thermal conductivity of a diamond is about six times higher than that of a piece of copper. 
+在室温下, 钻石的热传导律比铜块高六倍左右. 
+The conductor is reluctant to reduce the conductivity of the semiconductor.
+导演不情愿降低半导体的导电率。
+Perfect conductivity is the first traditional hallmark of super - conductivity. 
+完全导电性是超导电性的第一个传统的检验标志. 
+Many plastics have high surface resistance and low electrical conductivity. 
+很多塑料具有高的表面电阻和低的导电性能. 
+Sometimes the carbon rods are copper coated to  improve  electrical conductivity. 
+有时这些碳棒包上一层铜,以增加其导电性. 
+ The property itself - the hydraulic conductivity - does not change. 
+它本身的性质, 即 水力传导性并没有发生变化. 
+Thermal conductivity varies for different gases. 
+热传导率因不同气体而异. 
+It is not possible to name any particular conductivity at which metals end and semiconductors begin. 
+不可能说出在哪个特定的导电系数处是金属和半导体的分界. 
+In heterogeneous anisotropic materials the heat flow vector and conductivity are more complex. 
+在各向异性的非均质材料中,热流向量和热导率很复杂. 
+ In the most general case the thermal conductivity is a tensor with six components. 
+在最一般的情况下,热导率是一个具有六个分量的张量. 

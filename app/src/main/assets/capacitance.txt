@@ -1,0 +1,20 @@
+ The effect of the diffusion capacitance can be troublesome. 
+扩散电容会引起麻烦. 
+Both the inertance and capacitance effects are time - dependence. 
+惯性和容量的效应都是随时间而变化的. 
+Sampling of propellants under typical operating conditions may be necessary to obtain valid capacitance information. 
+为了获得有效的容量资料,在典型的工作条件下对推进剂取样是很必要的. 
+With sufficient forward bias, the diffusion capacitance can easily exceed the space charge region capacitance. 
+当正向偏压足够高时, 扩散电容很容易超过空间电荷压电容. 
+The effects of inductance and capacitance make it necessary to carefully design all AC transmission systems. 
+电感和电容的影响,使人们必须精心地设计所有的交流输电系统. 
+R 1 and Q 1's gate - to - source  capacitance  determine the transistor's switch - off time. 
+R1和Q1的 门源 极电容决定了晶体管的关闭时间. 
+Have excellent frequency characteristic and small deviation of Capacitance. 
+具容量误差小,频率响应高之特质. 
+Can measure frequency and cycle. 8846 A still can measure capacitance and temperature. 
+能够测量频率和周期. 8846A还能够测量电容和温度. 
+The great feature of a cathode follower is its low - input capacitance. 
+对一个阴极跟随电路来说是它的低输入电容. 
+ Can you ship Trimmer Capacitors with the angle and capacitance value preset? 
+你们可以提供带预设角和电容值的微调电容器 吗 ?

@@ -1,0 +1,20 @@
+Colour is often an additive in foods. 
+颜料经常是各种食物中的添加物. 
+Complementary to the three additive light primaries, there are three subtractive primaries. 
+与加色法三原色互为补色的颜色为减色法三原色. 
+The after effect occurs only if the additive is present during irradiation. 
+在辐照过程中只有当添加剂存在时才出现后效应. 
+Additive variance was higher than dominance variance, which indicates quantitative inheritance. 
+加性的变异高于显性的变异, 表明是数量遗传. 
+Some food additive are regarded as beneficial by the manufacturer. 
+有些食品添加物,生产者认为是有用的. 
+ Normally this may be calculated simply be assuming additive volumes. 
+可以简单地假设一个附加体积来进行计算. 
+The distances are additive along the length of the chromosome. 
+其距离值就是沿着染色体长度方向的累加. 
+We can use the additive property of the integral. 
+我们可利用积分的可加性.
+Only the additive genetic variance is transmissible by seed. 
+仅仅加性遗传方差是由种子遗传的.
+ A has the additive property. 
+A具有可加性. 

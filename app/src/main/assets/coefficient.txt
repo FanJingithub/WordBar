@@ -1,0 +1,20 @@
+the coefficient of friction
+摩擦系数
+A coefficient of one means the markets move perfectly in step.
+系数为1表示各个市场的步调完全一致。
+The distribution coefficient equation is still valid for any value of n. 
+对任一级n,分配系数关系式仍然是成立的. 
+The value of the sticking coefficient may have to be revised. 
+附着系数的值可能应有所修正.
+A compliance coefficient is a particular kind of flexibility - influence coefficient. 
+柔度系数是挠曲影响系数的一种特殊类型. 
+ Under  this  conditions  a constant coefficient, independent of load, can be obtained. 
+在此条件下, 就能得到一个不随负荷而变化的恒定系数.
+The housing has a higher coefficient of expansion than the ring. 
+壳体比圆环具有较高的膨胀系数. 
+A soil having a uniformity coefficient smaller than 2 is considered uniform. 
+均匀系数小于2的土壤可视为均质土. 
+Pascal published a treatus on binomial coefficient. 
+帕斯克发表了关于二项系数的论文. 
+ In 3 xy, 3 is the coefficient of xy. 
+在3xy中, 3是xy的系数. 

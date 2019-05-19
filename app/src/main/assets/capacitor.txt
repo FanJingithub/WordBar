@@ -1,0 +1,20 @@
+Make sure the capacitor bank is voltage-free.
+确信电容器组不带电压。
+The second resistor has been replaced by a capacitor. 
+第二个电阻已由一个电容所代替. 
+This arrangement is known as a parallel - plate capacitor. 
+这种装置称为平行板电容器. 
+Any two conductors separated by an insulator are said to form a capacitor. 
+由绝缘体隔开任何两个导体就组成电容器. 
+A capacitor is used to eliminate sparking when a circuit containing inductance is suddenly opened. 
+当含有电感的电路突然断开时,电容器可用以消除火花.
+ A sector of a cylindrical capacitor may thus be utilized as an energy filter. 
+柱面扇形电容器可作为能量过滤器. 
+The capacitor of safe - film and the mechanism of explosion protection. 
+与安全膜电容器及其防爆机理>>相似的文献. 
+The DC capacitor will not be used in across - the - line circuit. 
+不要将直流电容器用作 跨 线电容器. 
+ Started production of Conductive Polymer Solid Electrolytic Capacitor in Taiwan in 2006. 
+在台湾建立了聚合物固态铝电解电容器生产基地并开始量产. 
+  An electrode, as in a storage battery or capacitor. 
+蓄电池或电容器中的电极. 

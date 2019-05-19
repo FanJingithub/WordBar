@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_glass_3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorPrimary" >
+        <Button
+            android:id="@+id/back_result"
+            android:background="@drawable/icon_back"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:padding="10dp"
+            android:layout_marginBottom="10dp"
+            android:text=""/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="查询结果      "
+            android:textColor="#ffffff"
+            android:textSize="25sp"
+            android:gravity="center_horizontal" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="420dp"
+        android:background="#ffffff"
+        android:layout_centerInParent="true">
+        <TextView
+            android:id="@+id/word_name2"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:text="word"
+            android:textSize="40sp"
+            android:paddingLeft="10dp"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:background="#e4e7ce"/>
+        <TextView
+            android:id="@+id/word_ann2"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="yinbiao"
+            android:textSize="20sp"
+            android:layout_below="@id/word_name2"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:paddingLeft="10dp"/>
+
+        <Button
+            android:id="@+id/vv2"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:text=""
+            android:foreground="@drawable/icon_voice1"
+            android:layout_toRightOf="@id/word_ann2"
+            android:layout_below="@id/word_name2"
+            android:layout_marginTop="20dp"
+            android:padding="1dp"/>
+        <TextView
+            android:id="@+id/word_exp2"
+            android:layout_width="match_parent"
+            android:layout_height="280dp"
+            android:text="exp"
+            android:textSize="20sp"
+            android:layout_below="@id/vv2"
+            android:layout_marginTop="40dp"
+            android:paddingLeft="20dp"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="0dp"
+        android:background="#ffffff">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="12"
+            android:layout_height="match_parent"
+            android:id="@+id/query_result"
+            android:textSize="18sp"
+            android:background="#ffffff"
+            android:padding="5dp"
+            android:visibility="visible" />
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="3"
+            android:layout_height="match_parent"
+            android:text="是"
+            android:background="#eeeeee"
+            android:layout_margin="1dp"
+            android:id="@+id/con_data"
+            android:visibility="visible" />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+</RelativeLayout>

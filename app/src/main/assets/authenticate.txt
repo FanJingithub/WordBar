@@ -1,0 +1,20 @@
+Documentaries offered the chance to authenticate the accuracy of the various details in these models.
+纪录片为核实这些模型中各种细节的准确性提供了机会。
+We would have to authenticate your relationship with the boy. 
+我们必须证实一下您和那个孩子的关系. 
+ An expert was needed to authenticate the original Van  Gogh  painting from his imitation. 
+这幅画是凡·高的真迹还是赝品,需由专家来鉴定. 
+Specifies the digital signature used to authenticate the message. 
+指定用来对消息进行身份验证的数字签名. 
+Outgoing: Users in the specified domain can authenticate in the local domain. 
+传出: 指定域中的用户可以在本地域中进行身份验证. 
+Incoming: Users in the local domain can authenticate in the specified domain. 
+传入: 本地域中的用户可以在指定域中进行身份验证. 
+Certificate is used to authenticate the user ID in Internet t. 
+509公钥证书,用以在Internet网上验证用户的身份. 
+Institutions from banks to pawnshops are fingerprinting to authenticate transactions. 
+从银行到当铺,都在使用指纹识别对交易进行验证. 
+ L is replaced by the login of an user trying to authenticate. 
+被试图认证的用户的登录名替换. 
+  Your proxy requires you to authenticate. Contact your network administrator for assistance. 
+代理要求您进行验证. 请向网络管理员求助. 

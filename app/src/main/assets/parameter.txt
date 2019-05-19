@@ -1,0 +1,20 @@
+It is the parameter of distribution. 
+这就是分布参数. 
+One parameter which always comes into play is the national economy. 
+国民经济是一个经常起作用的参量. 
+Static and dynamic displacement is another method of categorizing this parameter. 
+静态和动态位移是这个参数的另一种分类方法. 
+The variational parameter multiplying each coordinate is called a scale factor. 
+每个坐标所乘的变分参数叫定标因子. 
+The specifications may sometimes appear within the parameter list itself. 
+区分部分有时可以在参数表本身出现. 
+Several methods of curve - fitting data yield consistent estimates of parameter values. 
+几种曲线似合数据的方法均能得到参数值的一致性估计. 
+The distance between orifice groups is another parameter associated with stability. 
+喷孔组合之间的距离是与不稳定性有关的另一参数. 
+We call parameter 4 is a dynamic parameter. 
+称参数4为动力参数. 
+Normally one parameter dominates the potential economic return at any particular stage of the program. 
+在方案中的特定阶段,通常有一个控制潜在经济利益的参数占主导地位. 
+ In addition, this example is intended to serve as an introduction to parameter optimization methods. 
+另外, 本例子也试图对参数最优化方法作一个介绍. 

@@ -1,0 +1,20 @@
+I read a snippet she had cut from a magazine.
+我读了她从杂志上剪下来的一段文字。
+The following code snippet  provides a scenario where an error occurs. 
+下面的代码段提供了发生错误的典型例子. 
+Quite where this snippet of information came from is a mystery! 
+的确,这些小道消息从何而来实在是一个谜! 
+Explains how to assign a shortcut name to a snippet. 
+解释如何为代码段指定快捷方式名称. 
+The following code snippet illustrates how to express this properly. 
+下面的代码片段说明如何恰当的表达这些. 
+Click OK to save your note as a web snippet. 
+按[确定]将你的笔记存到网路剪贴簿. 
+I've got a snippet of information that might interest you. 
+我刚得到一点消息,是你可能感兴趣的. 
+For example, the following code snippet creates the default database object. 
+例如下面的代码片段建立一个默认的数据库对象. 
+ The code snippet is now available for insertion into the code editor. 
+现在就可以将该代码段插入到代码编辑器中了. 
+ Each snippet performs a complete programming task. 
+每个代码段执行完整的编程任务. 

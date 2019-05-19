@@ -1,0 +1,20 @@
+ Octal  numbers are identified by a trailing 8 subscript. 
+八进制数由一个附加的下标8来识别. 
+ The subscript O and W identify the unweathered and weathered states. 
+下标O和W分别表示属于未风化和已风化的状态. 
+In a single - species fluid, the subscript may be dropped. 
+对于 单组分 流体, 这个下标可以省略.
+A double - subscript scheme will be used to identify the stresses. 
+为了区别各种应力还将采用双下标格式. 
+The atomic number appears as a subscript. 
+把原子系数标在左下角. 
+In hardware, it often represents a register. For example, the B box, the subscript box. 
+在硬件中常用它来代表寄存器. 如B寄存器, 下标寄存器. 
+The subscript was used on a variable that was not an array. 
+该下标用在了不是数组的变量上. 
+The subscript operator must be defined as a class member function. 
+下标操作符必须定义为类成员函数. 
+To create superscript or a subscript do the following. 
+按下列步骤创建上标或下标. 
+ Returns or sets the text content of an arbitrary cell ( single subscript ). 
+返回或设置一个任意单元格的内容 ( 单个下标 ). 

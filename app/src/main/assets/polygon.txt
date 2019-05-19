@@ -1,0 +1,20 @@
+A polygon with ten sides is a decagon.
+十条边的形状叫十边形。
+He conceived the first proof that the 17 - sided polygon is constructible. 
+他构思了17边形可以作图的第一个证明. 
+The frequency polygon is simpler than its histogram counterpart. 
+频率多边形比直方图更简单.
+What is the perimeter of this polygon? 
+这个多边形的周长是多少? 
+Boundaries of the polygon may extend to infinity. 
+多角形的边界可以延伸到无穷远处. 
+The circle has greater area than a regular polygon of the same perimeter. 
+正的面积比同样周长的正多边形的面积大. 
+Draws a single , convex polygon . Vertices 1 through N define this polygon. 
+画一个凸多边形. 顶点1到n定义一个多边形. 
+ No point cloud  offsetdata  could auto - generated the STL polygon surface. 
+点云无分层自动生成三维实体图形(三角网格面). 
+This is a polygon cutting procedure is a classic computer graphics algorithms. 
+这是多边形裁剪的程序,是计算机图形学的经典算法. 
+ Graphics cutting algorithm. These rectangular cutting, and cutting convex polygon. 
+图形学中的裁剪算法. 其中有矩形裁剪, 和凸多边形裁剪. 

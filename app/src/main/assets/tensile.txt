@@ -1,0 +1,20 @@
+All parts are machined from top grade, high tensile aluminium.
+所有零件都是用顶级高强度铝加工而成。
+the tensile strength of rope
+绳索的抗拉强度
+Certain materials can be manufactured with a high tensile strength.
+有些材料可以制造成抗拉强度大的产品。
+We would like to know the tensile stress in the wall. 
+我们很想知道壁内的拉应力. 
+ Tensile member forces in pinjointed frames are designated positive. 
+枢接构架中,拉力构件的力规定为正. 
+The specimen deforms under a tensile stress applied parallel to the fibres. 
+试样在平行于纤维的张应力作用下发生变形. 
+The heat treatment improves the tensile strength. 
+热处理能提高抗拉强度. 
+The circumferential normal stress is tensile. 
+周向正应力是张性的. 
+This shape allows only tensile strain. 
+这种形状使膜片只允承受拉伸压力. 
+ Results were obtained only for a surface layer on the tensile side of the plate. 
+只能在板的受拉侧的表面层得到结果. 

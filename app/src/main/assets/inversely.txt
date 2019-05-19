@@ -1,0 +1,20 @@
+Pressure varies directly with temperature and inversely with volume. 
+压力随温度成正比例变化,与容积成反比例变化. 
+The size of the nebula at this stage is inversely proportional to its mass.
+这个阶段星云的大小与其质量成反比。
+The amount of force needed is inversely proportional to the rigidity of the material. 
+需要的力度与材料的硬度成反比.
+ The availability of good medical care tends to vary inversely with the need for it. 
+优质医疗服务的提供往往与需要成反比. 
+ The value of a fraction is inversely proportional to that of the denominator. 
+分数值与分母值成反比例. 
+The overvoltage varies inversely with the current density to some extent. 
+超电压在某种程度上随电流密度成反比地变化. 
+The rate of reannealing is inversely proportion to sequence complexity. 
+再退火速度是和顺序复杂性成反比例. 
+The velocity of the fluid is inversely proportional to the spacing of the streamlines. 
+流体的流速与流线的间距成反比. 
+The magnitude of the rebound inversely related to ribavirin concentrations. 
+反跳的程度与利巴韦林浓度呈负相关. 
+ The insulation resistance of a cable is inversely proportional to its length. 
+电缆的绝缘电阻与其长度成反比. 

@@ -1,0 +1,20 @@
+Their approach is to scan every checked-in bag with a bomb detector.
+他们的方法是用炸弹探测器对每一个办理了登机手续的箱包进行扫描。
+"Do you have a metal detector?" — "No, I don't."
+“你有金属探测仪吗？”——“不，我没有。”
+We are forced to use a multiplicity of separate detector arrays. 
+我们要尽力用多个分离的检测器组成. 
+The detector is housed in a streamlined cylindrical container. 
+探测器安装在流线型圆柱形容器内. 
+A continuously variable potentionmeter is connected into the detector bridge network. 
+在检测器桥路中,接有可调电位器. 
+The detector must be operationally simple, reliable and robust. 
+探测器必须操作方便, 可靠而牢固. 
+ A detector sampled the reflected intensity at various angles. 
+探测器在不同的角度收集反射束的强度. 
+A marine detector is a hydrophone. 
+海洋检波器是水中地震检波器. 
+The detector tube is filled with nitric oxide. 
+检测管中充满了氧化氮. 
+ Thermopile is usually a blackened thermal detector. 
+热堆一般是个涂黑了的热探测器. 

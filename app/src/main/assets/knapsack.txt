@@ -1,0 +1,20 @@
+ " You can carry that blue knapsack. I'll take the tan one and the tripod. " 
+ “ 你可以帮着拿那个蓝背包, 我拿那个土黄色的和三脚架. ” 
+Franklin placed the warm scarf Debbie had knitted for him in the top of his knapsack. 
+富兰克林把黛比为他织的暖和的围巾放在背包的最上层. 
+ The moment he received the order, the soldier packed his knapsack. 
+士兵一接到命令就打了背包. 
+This is about 01 knapsack problem dynamic programming algorithm. 
+这是关于01背包问题的动态规划算法. 
+Therefore, the hybrid intelligence algorithm is effective to solve 0 - 1 knapsack problems. 
+因此, 应用该混合智能算法求解 0-1 背包问题是比较有效的. 
+Backtracking to master the application of retrospective method with 0 - 1  knapsack  problem. 
+掌握回溯法的应用用回溯法求解 0-1 背包问题. 
+Fashion knapsack having a unique style , greatly matching the leisure decoration. 
+时尚的背包别具一格, 是休闲装饰的好伴侣. 
+ Applied to knapsack & sports bags , insulation bags and cooling container. 
+背包心材、集装箱 和 保冷包心材等. 
+ Do you think she got everything into her knapsack? 
+你认为她把所有一切都放进了她的背包里 吗 ?
+ The man took his stick and his knapsack and departed. 
+那人提起他的棍和布袋,走了.

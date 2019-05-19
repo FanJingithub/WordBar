@@ -1,0 +1,20 @@
+The different components all have to interface smoothly.
+不同的部件都必须能顺利接合。
+The system uses an impressive graphical interface.
+这一系统采用了特别好的图形界面。
+the interface between computer and printer
+计算机和打印机之间的接口
+The new version of the program comes with a much better user interface than original. 
+新版程序的用户界面比原来程序的好得多.
+My computer has a network interface, which allows me to get to other computers. 
+我的计算机有网络接口可以与其它计算机连在一起. 
+This program has perspicuous interface and extensive application.
+该程序界面明了，适用范围广。
+There is probably no user - interface idiom more abused than the error dialog. 
+在图形用户界面的世界里,可能没有比滥用错误对话框更多的习惯用法了. 
+There can be any number of supplemental personas associated with an interface. 
+一个界面的补充人物角色可以有任意多个. 
+This is one of the most frequently violated principles in user - interface design. 
+在用户界面设计中,这是人们违反得最多的原则之一. 
+  At the same time, interface standards also benefIt'software vendors. 
+同时, 界面标准也有利于软件开发商. 

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="菜单"
+        android:id="@+id/textView"
+        android:gravity="center"
+        android:textSize="25sp" />
+    <Button
+        android:id="@+id/to_main"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="主界面"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:layout_below="@id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#a2d1ce" />
+    <Button
+        android:id="@+id/to_listv"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="列表添加"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:layout_below="@id/to_main"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#abd8d5" />
+    <Button
+        android:id="@+id/to_listdel"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="列表删除"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:layout_below="@id/to_listv"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#a2d1ce" />
+    <Button
+        android:id="@+id/to_query"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="单词查找"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:layout_below="@id/to_listdel"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#abd8d5" />
+    <Button
+        android:id="@+id/to_tell"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="使用说明"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:layout_below="@id/to_query"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#a2d1ce" />
+    <Button
+        android:id="@+id/to_trash"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="回收站"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:layout_below="@id/to_tell"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#abd8d5" />
+
+</RelativeLayout>

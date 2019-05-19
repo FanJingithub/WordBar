@@ -1,0 +1,20 @@
+Changing stresses bring about more cracking and rock deformation.
+不断变化的应力导致更多的断裂和岩石变形。
+a deformation of the spine
+脊柱的畸变
+Normally, enormous deformation is abnormal.
+通常，巨大的变形是不正常的。
+Plastic deformation and creep are highly undesirable, resilience is favourable. 
+塑性形变和蠕变是很不利的, 回弹性则是有利的. 
+The initial stress or deformation fields are not usually homogeneous. 
+初始胁强场或初始形变场通常并不是均匀的. 
+It is assumed that the plastic deformation is incompressible. 
+它假定塑形变形是不可压缩的. 
+Outside the strip zone, deformation is elastic. 
+在窄带区以外, 变形是弹性的. 
+The deformation frequencies are not sufficiently distinctive. 
+其变形频率不是十分明显的. 
+Find the angular deformation sustained with such loading. 
+求在这种载荷下出现的角变形. 
+ We need to consider the deformation of only one strip parallel to generatrix of the cylinder. 
+我们只需要考虑一个平行于圆柱母线的窄条的变形. 

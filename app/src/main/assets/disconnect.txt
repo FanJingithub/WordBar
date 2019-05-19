@@ -1,0 +1,20 @@
+First, disconnect the boiler from the water mains.
+先将锅炉与供水总管断开。
+If you don't pay your bills they'll disconnect your electricity / gas. 
+若不付费用,就要停止供应电力[煤气]. 
+You should disconnect the wireless set before you make adjustments inside it. 
+你应先拔掉无线电插头,再做内部调整. 
+We can therefore disconnect this bond ( 5 a ). 
+我们于是可以把这个键 ( 5a ) 切断. 
+An alternative approach to alcohols having two identical R groups ( q ) is to disconnect both at once. 
+另一可供选用的,通向具有两个等同R基 的醇 ( q ) 的办法是,将这两个R基一举全都切开. 
+Disconnect the source from the computer before opening the back. 
+打开计算机的后部之前先切断它的电源. 
+Disconnect the power mirror wire harness retainers from the inner door panel. 
+从内侧车门饰板断开电动视镜电线束扣件. 
+Disconnect the gauge  glasses or fit a blind flange between them. 
+拆开水位玻璃管或者在两者之间装上盖板. 
+ GAIN  ACCESS TO THE BCM  BODY  20 - WAY CONNECTOR BUT DO NOT DISCONNECT. 
+找出BCM车体20路接头,但不要将之断开. 
+ Disconnect both ends of the circuit or component to be measured. 
+断开待测电路或部件的两端.

@@ -1,0 +1,20 @@
+The discrepancies resulted from different methods of computation.
+这些差异是由不同的计算方法造成的。
+Division is a form of computation. 
+除法是一种运算方法. 
+The wide application of electronic computers in science and technology will free man from the labour of complicated measurement and computation. 
+电子计算机在科学技术方面广泛的应用将使人们从复杂的计量和计算中摆脱出来. 
+Some computers can perform over a billion computation a second.
+有些计算机一秒钟能完成超过十亿次运算。
+A single base might in principle suffice for computation. 
+在原理上用一条基线就能满足计算的要求. 
+ The preliminary computation is the same as that for ordinary levelling. 
+概算与普遍水准测量相同. 
+His extortions from the industrious poor have been beyond computation. 
+他对劳苦人民的横征暴敛无法计算. 
+ The manner of this computation is consigned to  Appendix  1 . 3. 
+这种计算方法放在附录1.3中. 
+Exact computation of the burning surface area is lengthy. 
+燃烧面积的精确计算是非常繁难的. 
+ Logarithms were invented to shorten the work of extended numerical computation. 
+人们发明对数来缩短运算冗长的数值计算工作. 

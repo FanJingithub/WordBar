@@ -1,0 +1,20 @@
+The policy tried to check the exponential growth of public expenditure.
+该政策试图控制公共开支的迅猛增长。
+Populations tend to grow at an exponential rate. 
+人口趋向于以指数比率增长. 
+The logarithmic function is defined as the inverse of the exponential function. 
+对数函数是作为指数函数的反函数来定义的. 
+The envelopes of the strain peaks is an exponential function. 
+应变峰值的包络线是一个指数函数. 
+The frictional dissipation will introduce an exponential decay. 
+摩擦耗散可导致指数式的衰减. 
+These measurements showed that the electronic heat well  below  Tc was dominated by an exponential dependence. 
+这些测量结果表明,在远低于Tc的温度下,电子比热是按指数规律变化的. 
+The first exponential has been introduced to allow for variation of amplitude with attitude. 
+前面的指数是为了考虑波动振幅随高度变化而引入的. 
+These exponential or logarithmic relationship, that characterize harmonious growth with changing proportions, are termed " allometric ". 
+作为比例有变化的协调增长这些指数或对数关系被标为 “ 开度量 ” 关系. 
+An exponential function is one in which the variable appears in an exponent. 
+指数函数是指数中出现变量的函数. 
+ Im writing a book about trigonometric and exponential functions. 
+我在写一本关于三角和指数功能的书. 

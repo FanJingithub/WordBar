@@ -1,0 +1,20 @@
+A red wire is often attached to the anode. 
+红色电线通常与阳极相联. 
+The reverse process may proceed at the anode. 
+相反的过程也会在阳极上发生. 
+ The applied pressure acts on a diaphragm which in turn moves the anode pin. 
+施加的压力作用在一个膜片上,于是该膜片就移动阳极管脚. 
+It'shows well - defined wavelengths which are characteristic of the structure of the metal forming the anode. 
+它显示出那构成阳极的金属的结构所特有的,十分确定的波长. 
+The cathode rays are always beamed on a fresh area of the anode surface. 
+阴极射线总是射向阳极表面的新区域. 
+Each tank shall be furnished with an internal anode for anodic protection. 
+每个内胆都应该配置一体化的阳极以提供阳极保护. 
+Support and guide the anode  jacking  frame during rack rising. 
+支撑并引导阳极提升机构框架的运动. 
+Grid 2 acts as a virtual anode the oscillator. 
+第二栅作为振荡器中的“虚阳极”. 
+ DESIGNING  THE UNDISSOLVED  ANODE OF LEAD ALLOY INTO ECOMATERIALS. 
+不溶性铅合金阳极的环境材料化设计. 
+  The Ti - Ru anode voltage was measured during the electrolytic process. 
+测量了电解过程中钛涂钌电极的阳极电位. 

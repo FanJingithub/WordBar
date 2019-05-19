@@ -1,0 +1,20 @@
+a word of Greek derivation
+由希腊语派生的词
+The custom is of Scottish derivation. 
+这风俗起源于苏格兰. 
+The derivation of its name is obscure.
+其名字的由来鲜为人知。
+The word is of old French derivation.
+该词源于古法语。
+Our derivation of the chain rule contains one flaw. 
+我们推导链式法则的过程中有一个漏洞. 
+Previous chapters have dealt with the derivation of systems of difference equations. 
+前面几章已经论述了差分方程组的推导. 
+There is a logical gap in our derivation of the osmotic pressure. 
+我们在推导渗透压时,有一个逻辑上的破绽. 
+This derivation is only valid if no chain scission accompanies crosslinking. 
+这一关系式仅适用于交联时不伴有断链发生的情况. 
+De Wiest criticized Jacob's derivation and exposition. 
+德维斯特批评了雅各布的推导,且提出了略为不同的解释. 
+ Our derivation lacks rigour in this regard. 
+我们的推导在这方面是不严格的. 

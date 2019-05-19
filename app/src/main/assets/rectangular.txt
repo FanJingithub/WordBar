@@ -1,0 +1,20 @@
+He put a rectangular box on the table. 
+他把一个长方形的箱子放在桌子上. 
+The magnitudes of the rectangular components of a vector are easily computed. 
+一个矢量的正交分量的大小是很容易计算的.
+Small rectangular backup bars were used to fabricate the web - bottom flange connection. 
+在腹板与下翼缘的施焊中使用小矩形挡板. 
+Rectangular plastic cards coated with magnetic material are employed in this device. 
+这种装置使用涂有磁性材料的矩形塑料卡片. 
+Vector differences may also be found by the method of rectangular resolution. 
+矢量差也可用正交分解求得. 
+The equations are written in rectangular coordinates. 
+这些方程是在直角座标系中写出的. 
+A series of parallel strips of rectangular section is cemented over a lower sheet. 
+使用一组截面为矩形的互相平行的试条,并将它们粘贴在一薄片上. 
+In Fig. 6 - 1 ( c ), the motion of a particle is referred to by a rectangular coordinate system. 
+在图6-1 ( c ) 中, 质点的运动是用直角坐标系来描述的. 
+Tong uses the model to analyse the effect of a rectangular obstruction in a channel. 
+董使用“混合”模型研究了管道中有矩形障碍物时所产生的影响. 
+ Construct a set of rectangular axes and resolve any inclined forces into rectangular components. 
+作一组直角坐标轴,把各力都分解成正交分量. 

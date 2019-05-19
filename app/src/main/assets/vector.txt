@@ -1,0 +1,20 @@
+An axial vector may itself enter into a vector product. 
+轴矢量自身可参与矢积. 
+The direction of the electric field vector is indicated in each picture. 
+每张照片上都标出了电场矢量的方向. 
+Vector is a useless survival, or offshoot from quaternions. 
+向量是无用的幸存物或四元数的无价值的支流. 
+The vector Z is known as the state vector of the system. 
+向量Z称为系统的状态向量. 
+The radius vector of each solid is always a positive length. 
+每个立体的矢径总是正值长度. 
+Every vector can be resolved into covariant or into contravariant components. 
+每个矢量都可以分解成协变分量或逆变分量. 
+For arrays this template is called a dope vector or information vector. 
+我们把这个属性单元称为数组的内情向量或信息向量. 
+ Vector products arise frequently in this book in a number of contexts. 
+在本书的许多场合中经常要出现矢量积. 
+The magnitudes of the rectangular components of a vector are easily computed. 
+一个矢量的正交分量的大小是很容易计算的.
+ It is interesting and enlightening to consider the derivative of a vector. 
+这对研究矢量的导数来说是重要的,而且富有启发性. 

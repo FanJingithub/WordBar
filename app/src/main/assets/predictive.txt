@@ -1,0 +1,20 @@
+the predictive power of science
+科学的预测能力
+They acquire authority from their predictive power.
+它们的权威性来自其预测事物的能力。
+Obviously it is very difficult to describe such a complex system in simple, predictive terms. 
+显然,用简单的预测语言来描述这样一个复杂系统是非常困难的. 
+Mechanistic models are considerably more robust as predictive tools than are purely empirical models. 
+机械模型作为预测工具,比纯粹的经验模型要完善得多. 
+It generally was divided into descriptive data mining and predictive data mining. 
+一般将数据挖掘分为描述数据挖掘和预测数据挖掘两大部分. 
+The nonlinearity of unmanned vehicles requires nonlinear model in predictive control. 
+对于无人机这样的典型非线性系统,预测模型必须采用非线性模型. 
+Thus predictive control has been applied to many industries successfully. 
+这使它在工业实际中得到广泛的成功应用. 
+ Jim  Highsmith  has spent many years working with predictive methodologies. 
+JimHighsmith花费多年的时间致力于预见性方法论的研究. 
+ Objective : To study the predictive effect of ambroxol on acute lung injury. 
+目的研究沐舒坦对急性肺损伤的肺保护作用. 
+ The strategy improves the traditional predictive functional control application. 
+该控制策略拓宽了传统预测函数控制的应用领域. 

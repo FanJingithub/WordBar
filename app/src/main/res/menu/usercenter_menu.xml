@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/to_listv"
+            android:icon="@drawable/ic_lib"
+            android:title="词库"/>
+        <item
+            android:id="@+id/to_listdel"
+            android:icon="@drawable/ic_credit"
+            android:title="单词管理"/>
+        <item
+        android:id="@+id/to_tell"
+        android:icon="@drawable/ic_help"
+        android:title="帮助说明"/>
+        <item
+            android:id="@+id/to_query"
+            android:icon="@drawable/ic_query"
+            android:title="单词查找"/>
+        <item
+            android:id="@+id/to_about"
+            android:icon="@drawable/ic_about"
+            android:title="关于"/>
+        <item
+            android:id="@+id/to_trash"
+            android:icon="@drawable/ic_recycler"
+            android:title="回收站"/>
+    </group>
+</menu>

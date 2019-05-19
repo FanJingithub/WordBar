@@ -1,0 +1,20 @@
+We plot about eight points on the graph.
+我们在图表上绘制出大约8个点的曲线。
+Plot a graph of height against age.
+绘制一张身高与年龄对照的曲线图。
+the vertical axis of the graph
+图的纵轴
+Line the pages for the graph both horizontally and vertically. 
+在这几页上同时画上横线和竖线,以便制作图表. 
+A graph is regular if every vertex has the same degree. 
+如果一个图的每个顶点都具有相同的度数,则称它是正则图. 
+ This happens if the graph is disconnected or has a cutvertex. 
+如果一个图是不连通的或有割点,就发生这种情况. 
+The graph flattens out gradually after a steep fall. 
+图表上的曲线突降之后逐渐趋于平稳. 
+A graph is bipartite if it does not contain an odd cycle. 
+一个图是二部图,如果它不包含奇圈. 
+The most striking feature of this graph is the lack of agreement. 
+本图象最明显的特征是缺乏一致性. 
+ Such a graph is defined to be a contact network. 
+我们把这样的图定义为一个接触网络. 

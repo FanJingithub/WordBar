@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/head_m"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorPrimary" >
+        <Button
+            android:id="@+id/back_wordmenu"
+            android:background="@drawable/icon_back"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:padding="10dp"
+            android:layout_marginBottom="10dp"
+            android:text=""/>
+        <TextView
+            android:id="@+id/head_menu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      "
+            android:textColor="#ffffff"
+            android:textSize="25sp"
+            android:gravity="center_horizontal" />
+    </LinearLayout>
+    <ListView
+        android:id="@+id/list_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/head_m"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

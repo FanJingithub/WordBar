@@ -1,0 +1,20 @@
+Indent the second line.
+第二行行首留空格。
+We usually indent the first line of a paragraph. 
+我们常常把每段的第一行缩排. 
+The indent agent takes a commission on the value of his purchase. 
+这种订货代理商按所订购的货物价值收取佣金. 
+The mountains indent the horizon. 
+山峦使地平线成锯齿状. 
+A firm order is often called an indent. 
+确定的订单常称作订货单. 
+Please make an indent at the begin of each paragraph. 
+请在每段开头空格. 
+Indent: To begin a line or lines with a blank space. 
+缩排: 字行缩进一固定空格,然后开始的排法. 
+Bid will be evaluated strictly in accordance with the indent specifications. 
+投标将按照订货单的技术条件严格评估. 
+They just signed a three - month indent with the company. 
+他们刚刚与这个公司签订了一个三个月的服务合同. 
+ Defines the hanging indent of the currently selected text. 
+过时)定义当前选定文本的悬挂缩进. 

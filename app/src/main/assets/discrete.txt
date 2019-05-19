@@ -1,0 +1,20 @@
+Social structures are not discrete objects; they overlap and interweave.
+社会结构之间不是离散的，他们相互重叠交织。
+The organisms can be divided into discrete categories.
+有机体可分为许多互不相联的种类。
+The picture consists of a lot of discrete spots of colour. 
+这幅画由许多不相连的色点组成. 
+Both contiguous selection and discrete selection support single - click selection and click - and - drag selection. 
+连续选择和离散选择都支持单击选择和单击并拖动选择. 
+Discrete data, on the other hand, has no inherent order. 
+另一方面, 离散数据没有内在次序. 
+ Mutual exclusion is the rule in both discrete and contiguous selection. 
+互斥对离散选择和连续选择都适用. 
+Democritus argued  that matter is formed from discrete particles. 
+德谟克利特认为物质是由分立的粒子构成的. 
+ Probability distributions are classified as either discrete or continuous. 
+概率分布为离散型和连续型两种. 
+A multiple - position controller which has three discrete values of output. 
+一种含有三个离散输出值的多位置控制器. 
+ A nebula is really a discrete mass of innumerous stars. 
+一团星云实际上是无数星体不连续的集合体. 

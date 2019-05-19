@@ -1,0 +1,20 @@
+Each half reaction responds to the interfacial potential at the corresponding electrode. 
+每个半反应都与相应电极上的界面电势差相呼应. 
+In this case, a flow of electrons from electrode to solution occurs. 
+这样, 就发生从电极到溶液的电子流动. 
+ The  calomel  electrode has a small pinhole opening or wick. 
+甘汞电板上有一个针孔或砂芯. 
+Therefore, any changes in the cell are ascribable to the working electrode. 
+因此, 电池中的任何变化,都归因于工作电极. 
+A pool of mercury surrounds the negative electrode. 
+阴极周围是一池水银. 
+An electrode is attached to the stylus. 
+针上接着一个电极. 
+We have the saturated calomel electrode. 
+我们得到饱和甘汞电极. 
+Each electrode is impregnated with a catalyst to speed the oxidation reduction or half reaction. 
+每个电极掺入催化剂,以加重电池半氧化或还原反应. 
+In discussing cells, one calls the electrode at which reductions occur the cathode. 
+在所讨论的电池中, 在其上发生还原作用的电极叫做阴极. 
+ Experience shows that the positive electrode always  burns  away more rapidly than the negative. 
+经验表明,正电极比负电极烧蚀得快得多. 

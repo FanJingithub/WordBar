@@ -1,0 +1,20 @@
+Shoes that are too tight deform the feet. 
+(穿)太紧的鞋子会使脚变形. 
+Concrete structures are also usually assumed to deform linearly. 
+混凝土结构通常也假设成线性变形. 
+ In severe cases, it can deform joints and cripple its victims. 
+严重的病例, 可使关节变形,使病人残废. 
+ Ice crystals begin to deform measurably. 
+冰晶就产生某种程度的变形了. 
+Severe variations deform the discharge curves. 
+严重者使放电曲线发生畸变. 
+It will deform into an elongated blob. 
+它会变形而成为一个拉长了的滴状体. 
+The shale beds in between generally deform plastically. 
+夹在其中的页岩层通常是塑性变形. 
+Sometimes, however, the ability of bars to deform appreciably in torsion is put to good use. 
+但是, 有时要利用杆件在扭转时具有可观变形的能力. 
+ Ice crystals begin to deform measurably under a unidirectional pressure of slightly less than one atmosphere. 
+在略小于一个单向大气压的压力下,冰晶就产生某种程度的变形. 
+ Using software DEFORM, the hole - shrinking process of cylinder was simulated, the simulation results was analyzed. 
+利用DEFORM软件, 对工作缸收孔工艺进行了数值模拟, 并对模拟结果进行了分析.

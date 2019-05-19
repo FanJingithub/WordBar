@@ -1,0 +1,20 @@
+They have docked a robot module alongside the orbiting space station.
+他们已经将一个自动操作舱与沿轨道运行的空间站并行对接上了。
+He has 250 students in his microeconomics module.
+他的微观经济学授课单元有250名学生。
+While one of the astronauts went round the moon in the command module, the other went down to the surface in the lunar module. 
+当其中一名宇航员在指挥舱中环绕月球飞行时, 另一名宇航员在登月舱中降落到月球表面. 
+A rescue plan could be achieved by sending an unmanned module to the space station.
+可以通过向太空站发射无人太空舱来实现救援计划。
+Then N is said to be a flat A - module. 
+那么,N叫做平坦A -- 模. 
+A ride in the lunar module's upper stage was quite an experience. 
+在登月舱上半截的一次驾驶,可真是一次难得的经验. 
+The centre module displays traffic guidance information. 
+中央模块显示交通引导信息. 
+The B - module MB is said to be obtained from M by extension of scalars. 
+我们说B - 核MB是从M验纯量扩充而得到的. 
+The perfectly geometrical simulation module model of warship wake was established. 
+摘要建立了较完备的尾流仿真模型,给出了尾流空穴模型和机动目标尾流的正确描述.
+  In the user administration module, you can delete users as administration authority. 
+管理员管理用户界面,主要是对用户删除操作. 

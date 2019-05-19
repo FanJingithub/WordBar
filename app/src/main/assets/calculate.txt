@@ -1,0 +1,20 @@
+Take a hundred and twenty values and calculate the mean.
+取120个值计算平均数。
+From this you can calculate the total mass in the Galaxy.
+由此你可以算出银河系的总质量。
+Use the formula to calculate the volume of the container.
+用公式计算容器的容积。
+This formula is used to calculate the area of a circle.
+这个公式用于计算圆的面积。
+The scientist could not calculate when the spaceship would reach the Jupiter. 
+那位科学家没有算出那艘宇宙飞船什么时候会到达木星. 
+What you do first is to calculate the mean. 
+你要做的第一件事就是算出平均数. 
+Engineers calculate the strains and stresses on a bridge. 
+工程师们计算桥梁的应变和应力. 
+Emotional people don't stop to calculate. 
+感情容易冲动的人做事往往不加考虑. 
+He must calculate the probability of failure. 
+他必须计算一下失败的概率. 
+ I'll calculate what it will cost. 
+我要估计一下那要花多少钱. 

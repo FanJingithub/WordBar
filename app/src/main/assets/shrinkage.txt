@@ -1,0 +1,20 @@
+Allow for some shrinkage in both length and width.
+长、宽上都预留出一定的缩水量。
+the shrinkage of heavy industry
+重工业的萎缩
+There has been much shrinkage of the clothes in the wash. 
+这些衣服洗后已缩了很多. 
+Shrinkage stress was found to increase linearly with cure temperature. 
+我们发现收缩应力随固化温度直线增加. 
+It is better to allow for shrinkage when buying cotton clothes. 
+买棉衣时最好要考虑到它们的缩水率. 
+Shrinkage level could be used as an index of agitation. 
+收缩程度可作为表示搅动的指数. 
+Freyssinet flat jacks may be required to compensate for distortions arising from creep and shrinkage. 
+弗涅新奈氏扁千斤顶可用以调整收缩与徐变产生的变形. 
+The swelling or shrinkage with changes in moisture content is known as movement. 
+木材随含水量变化发生膨胀或收缩,这种现象称为胀缩. 
+ On the other hand it is important to consider the shrinkage due to drying out. 
+另一方面,考虑由于干燥作用引起的收缩是重要的. 
+ During the manufacturing process a plant usually experiences a degree of material shrinkage. 
+在生产过程中,工厂通常总要受到一点材料上的损失. 

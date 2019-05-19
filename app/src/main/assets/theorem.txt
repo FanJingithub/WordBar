@@ -1,0 +1,20 @@
+I agree with the theorem that the best defence is offence. 
+我同意最好的防御是进攻的理论. 
+His theorem can be translated into simple terms. 
+他的定理可用更简单的术语来解释. 
+By the corollary to Theorem 4.3, the origin is asymptotically stable. 
+根据定理4.3的推论, 原点是渐近稳定的. 
+There are a number of alternative formulations of the reciprocity theorem. 
+还有许多别的互易定理的公式. 
+Let us restate the assertions above as a theorem. 
+我们把上述的断言重新表述为一个定理. 
+ The remarkable part of Karatowski's theorem is the " only if " part. 
+库拉图夫斯基定理的卓越部分在于他的 “ 仅当 ” 部分.
+This is a simple example of the equipartition theorem at work. 
+这就是均分定理应用的一个简单例子. 
+A complete analysis must build on the implicit function theorem. 
+完整的分析必须建立在隐函数定理的基础上. 
+The assertion is known as the closed graph theorem for Hilbert spaces. 
+这个断语被称为希耳伯特空间的闭图象定理. 
+ Rolle's theorem is a special case of the mean value theorem. 
+罗尔定理是中值定理的一种特殊形式. 

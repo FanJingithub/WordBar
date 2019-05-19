@@ -1,0 +1,20 @@
+the longitude of the island
+那座岛的经度
+All places on the same meridian have the same longitude. 
+在同一子午线上的地方都有相同的经度. 
+The longitude of New York is 74 degrees west of Greenwich. 
+纽约的经度是西经74度. 
+The city is at longitude  21�  � east. 
+这个城市位于东经21度. 
+A similar feature is found at 13 degrees North between 230 degrees and 250 degrees longitude.
+在北纬13度、经度230度到250度之间发现了类似的特征。
+ Terrestrial longitude is measured in degrees east or west of the Greenwich meridian. 
+地球的经度是用格林尼治子午线向东或向西的度数来表示的. 
+The city is at longitude 21°east.
+这个城市位于东经21度。
+He noted the latitude and longitude, then made a mark on the admiralty chart.
+他记下纬度和经度，然后在航海图上做了个标记。
+ Every place on the same meridian has the same longitude. 
+同一经线上的地方其经度相同. 
+ The line of zero degree longitude passes through Greenwich. 
+经度零度线穿过格林威治. 

@@ -1,0 +1,20 @@
+We got the Post Office to redirect our mail when we moved. 
+搬家后我们让邮局给我们转寄邮件.
+Controls were used to redistribute or redirect resources.
+采用了管控措施来重新分配资源或改变其流向。
+It'should only take me a few minutes to redirect the power to the drive wheels. 
+应该只花我几分钟来改变能量到驱动轮上. 
+Redirect your attention to the danger from the fundamentalists. 
+请把你们的注意力集中到原教旨主义带来的危险上. 
+Redirect local drives when logged on to the remote computer. 
+登录到远程计算机时重定向本地驱动器. 
+You can redirect each of these streams to or from a file. 
+你能重新传入每一条这些水流到或从一个文件. 
+The status code must be a redirect status code. 
+状态代码必须是重定向状态代码. 
+Another approach is to suppress anger and then convert or redirect it. 
+另一种压制愤怒的办法是,让它转化或转变方向. 
+The redirect action is not currently supported with Run Rules Now. 
+重定向动作当前不被“立即运行规则”支持. 
+ Ability to redirect all TCP traffic to the user - mode service. 
+具有将所有TCP流量重定位为用户模式服务的能力. 

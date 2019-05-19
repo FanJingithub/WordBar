@@ -1,0 +1,20 @@
+Their lives interconnect with those of celebrated figures of the late eighteenth-century.
+他们的生活与18世纪晚期的名人联系在一起。
+ It's strange how people's lives interconnect. 
+人们的生活是如何互相联系在一起的,真是不可思议. 
+The causes are many and may interconnect.
+原因有很多而且可能互相关联。
+A unified resource binding is proposed for interconnect reduction with genetic algorithm. 
+摘要提出一种使用遗传算法在高层次综合中完成互连优化的方法. 
+These developmental tools transform interconnect operations into standard data programming, users say. 
+用户们称,这些开发工具把互连操作转变成标准的数据编程. 
+The AV Matrix Interconnect outperforms all cables in its price range. 
+的AV矩阵互连优于所有电缆在其价格区间. 
+Utilities need bandwidth and sensors and standards forpieces to interconnect. 
+公用事业需要带宽和传感器技术和互连标准规范. 
+OPC technology is presented to interconnect DCS and MIS. 
+并通过OPC技术,实现了DCS系统和厂级管理信息系统MIS之间的数据共享. 
+ The copper interconnect technology for ICs and their applications are introduced briefly. 
+简要介绍了集成电路铜连线技术及其应用. 
+ PCI bus can interconnect peripheral components with CPU. 
+PCI局部总线实现了周边设备与中央处理器的高速互连. 

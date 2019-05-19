@@ -1,0 +1,20 @@
+Its vineyards are virtually contiguous with those of Ausone.
+其葡萄园差不多紧挨着欧颂堡的葡萄园。
+The countries are contiguous.
+这些国家互相接壤。
+They are two immediately contiguous areas. 
+他们是紧密接邻的地区. 
+Viet Nam is contiguous to China. 
+越南与中国毗邻. 
+This district is contiguous to the border. 
+这个地区接近边境. 
+Both contiguous selection and discrete selection support single - click selection and click - and - drag selection. 
+连续选择和离散选择都支持单击选择和单击并拖动选择. 
+This is unfortunate, but there is no good alternative for contiguous selection. 
+这是令人遗憾的, 但对于连续选择又没有其他好的替代方法. 
+ Mutual exclusion is the rule in both discrete and contiguous selection. 
+互斥对离散选择和连续选择都适用. 
+California and Mexico are contiguous. 
+加利福尼亚和墨西哥相邻. 
+ California is contiguous with [ to ] Mexico. 
+加利福尼亚与墨西哥 相邻 .

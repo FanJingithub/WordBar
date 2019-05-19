@@ -1,0 +1,20 @@
+The book has a diagonal black stripe on the cover. 
+书的封面上有条连接对角的黑斜线. 
+Footsteps had scored a diagonal path through the snow. 
+脚印在雪地上留下了一条对角线. 
+Draw a diagonal line to divide the square into two triangles. 
+画一条对角线,把正方形分成两个三角形. 
+The lumped mass matrix is a diagonal matrix. 
+集中质量阵是一个对用阵. 
+The square matrix is called a diagonal matrix. 
+该方矩阵称为对角矩阵. 
+The n vertical planes are called diagonal plane. 
+n个竖直的平面叫做等分面. 
+The truss comprises four plane trusses each two panels and each panel has one diagonal brace. 
+桁架由四个平面桁架组成,每两个节间及每个节间均有对角撑. 
+Diagonal lines usually convey a sense of movement or imbalance. 
+斜线往往传达一种运动或不平衡. 
+The design of a rectangular - type, data members are diagonal vertex. 
+设计一个矩形类, 数据成员是对角线上顶点. 
+ These methods are: diagonal braces, shear walls, and joint rigidity ( frames ). 
+这些方法有: 对角撑, 剪力墙, 连接刚度 ( 框架 ). 

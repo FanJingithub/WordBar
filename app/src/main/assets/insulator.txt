@@ -1,0 +1,20 @@
+Few substances can equal fur as an insulator. 
+作为绝缘体很少有其他材料能与动物皮毛相媲美. 
+Fat is an excellent insulator against the cold.
+脂肪是极好的抵御寒冷的绝热体。
+Dry air is a good insulator, but sea water is not. 
+干燥空气是一种好绝缘物, 海水则不是. 
+The atoms of an insulator hold their electrons very tight. 
+绝缘体的原子把电子抓得很牢. 
+A loose mulch acts on the surface as an insulator. 
+疏松的覆盖物在土壤表面起了隔热的作用. 
+In a hot climate the condensation will be on the inner surface of the insulator. 
+在气候炎热时,凝结水将出现在隔热层的内表面. 
+Any two conductors separated by an insulator are said to form a capacitor. 
+由绝缘体隔开任何两个导体就组成电容器. 
+Even in an insulator the electrons can move about without leaving their parent atoms or molecules. 
+甚至在绝缘体内,电子也能不离开它所属的原子或分子而运动. 
+The glass insulator prevents any charge from leaking off the support and gold leaves. 
+玻璃绝缘体防止任何电荷从金箔及其支持杆漏跑. 
+ The combiner is fabricated on a silicon - on - insulator (  SOI  ) substrate. 
+在一个 绝缘体上硅 的基板上实现了该器件. 

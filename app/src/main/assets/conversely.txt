@@ -1,0 +1,20 @@
+You can add the fluid to the powder, or, conversely, the powder to the fluid.
+可把液体加入粉末，或者相反，把粉末加入液体。
+He placed the box conversely. 
+他把箱子放倒了. 
+In real life, nobody was all bad, nor, conversely, all good.
+在现实生活中，没有彻头彻尾的坏人，相反地，也没有完完全全的好人。
+Conversely, test made in full - scale boilers are usually difficult to reconcile. 
+与此相反, 在工业规模的锅炉内所做的试验,也难于互相一致. 
+Conversely, a waveform can not be specified without these three quantities. 
+反之, 不知道这3个量就不可能确定一个波形. 
+Conversely, tests made in full - scale boilers are usually difficult to reconcile. 
+与此相反, 在工业规模的锅炉内所做的试验也难于互相一致. 
+Conversely, the universe provides a laboratory. 
+反过来, 宇宙空间也可作为实验室. 
+Conversely, the will to mayhem weakens  nobody  has ever worried about a Long Hot Autumn. 
+而相反, 戕害的愿望更弱:谁也不会担心有一个漫长而炎热的秋天. 
+Conversely, some applications represent data as a matrix of many small contiguous pieces of data. 
+与之相反, 有些程序把数据表示为由许多连续的小片数据组成的矩阵. 
+ Conversely, an expansion is accompanied by a temperature decrease unless heat is added. 
+反之, 如果膨胀时不供给热量,流体的温度就要降低.

@@ -1,0 +1,20 @@
+This determinant is a special case of the resultant of two polynomials. 
+这个行列式是两个行列式的结式的特殊情形. 
+The main stem and fruiting  branches of determinant types remain relatively short. 
+有限生长类型的主茎和果枝仍然较短. 
+ The determinant can be evaluated from the cofactors of any column. 
+行列式可根据任何一列余因子来求算. 
+This equation describes the transformation of the determinant 9 from one reference frame to another. 
+这个方程式给出了从一个参照标架转到另一个参照标架时行列式9的变换式. 
+We should distinguish the square bracket from two straight bars enclosing a determinant. 
+我们应将方括号与用以围住行列式的两条直线区别开. 
+When any two rows or two columns are interchanged , the sign of the determinant is changed. 
+当任何两行或两列互换时, 行列式的正负号改变.
+ The term " continuant " arises from a relation between this type of determinant and continued fractions. 
+ “ 连行列式 ” 这一名称来自于这种类型的行列式与连分式的相互关系. 
+When the determinant is expanded, it produces a polynomial, called the characteristic polynomial. 
+当行列式展开后, 得到一个多项式, 叫它为特征多项式.
+The prime determinant of their success was not society or culture; it was management. 
+它们成功的决定因素不是社会,也不是文化, 而是管理. 
+ If all elements in one row or one column are zero, the determinant is zero. 
+如果一行或一列中的所有元素均为零, 则行列式为零. 

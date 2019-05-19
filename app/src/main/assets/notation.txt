@@ -1,0 +1,20 @@
+Using binary notation is in fact just manipulating ones and noughts. 
+使用二进制标号法实际上只运用1和0两个数. 
+Music has a special system of notation. 
+音乐有一套特殊的标记法. 
+Musical notation was conceived for the C major scale and each line and space represents a note in this scale.
+五线谱以C大音阶构成，每一个线和间代表这个音阶的音符。
+He recognizes enough notation to be able to follow a score.
+他认得足够多的乐符，看懂乐谱不成问题。
+Notation may also increase the memory value of a classification scheme. 
+标记符号也可以增进分类体系的助记程度. 
+The advantage of this notation is that it is unambiguous. 
+这种记号的优点在于它不会混淆. 
+This is a good time to switch to the classical notation. 
+此刻是换用经典符号的好时候. 
+Those are expressly designed to illustrate the vagaries of Leibnizian notation. 
+那些是用来说明莱布尼兹记号的巧妙想法. 
+However, this streamlined notation can be confusing as explained below. 
+然而,如下所述, 这种简化了的符号容易引起混乱. 
+ We trust that these problems will provide ample practice in this notation. 
+我们希望通过这些习题能熟练一下这个记号. 

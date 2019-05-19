@@ -1,0 +1,20 @@
+At last there can be a reasonable dialog between our two governments.
+我们两国最后终于能理智地进行对话了。
+Modeless dialog boxes frequently have several buttons that immediately invoke various functions. 
+不要忘记非模态对话框中经常会有几个按钮,可以立即激活不同的功能. 
+There is probably no user - interface idiom more abused than the error dialog. 
+在图形用户界面的世界里,可能没有比滥用错误对话框更多的习惯用法了. 
+An error dialog should always be polite, illuminating, and helpful. 
+错误消息框应该始终有礼貌 、 具有启发性, 还要助人为乐. 
+The pantry plays a secondary role, as should dialog boxes. 
+食品储藏室应该处于从属地位, 对话框也应该如此. 
+Property dialog boxes can be either modal or modeless. 
+属性对话框可以是模态的,也可以是非模态的. 
+Dialog boxes ( confirmation dialogs in particular ) ask questions. Toolbars offer choices. 
+对话框 ( 特别是确认对话框 ) 是提问, 工具栏是提供选择. 
+After the modeless dialog opens, the parent program continues without interruption. 
+打开一个非模态对话框后, 可以不用打断父程序. 
+Can you rearrange things on the window or dialog to expand horizontally? 
+是否可以重新安排窗口或对话框中的内容,在水平方向扩展一些? 
+ A properties dialog box generally controls the current selection. 
+一般来说,属性对话框控制当前的选择. 

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="0dp"
+    android:background="#C7EDCC">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorPrimary">
+        <Button
+            android:id="@+id/a_menu2"
+            android:background="@drawable/icon_menu_a"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="7"
+            android:layout_height="match_parent"
+            android:text=""
+            android:textColor="#ffffff"
+            android:textSize="24sp"
+            android:gravity="center" />
+        <Button
+            android:id="@+id/a_help2"
+            android:background="@drawable/my_help"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/show_it"
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:text=""
+        android:singleLine="false"
+        android:textSize="20sp"
+        android:background="#C7EDCC"
+        android:padding="15dp"
+        android:layout_marginTop="50dp"/>
+
+    <TextView
+        android:id="@+id/show_word"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/show_it"
+        android:background="#ffffff"
+        android:textSize="24sp"
+        android:paddingTop="5dp"
+        android:text="单词"
+        android:textColor="#04aaec"
+        android:paddingLeft="20dp"/>
+
+    <RelativeLayout
+        android:id="@+id/base"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_below="@id/show_word"
+        android:background="#ffffff">
+        <TextView
+            android:id="@+id/show_yinbiao"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textSize="20sp"
+            android:text="音标"
+            android:textColor="#04aaec"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="3dp"/>
+        <Button
+            android:id="@+id/vvv"
+            android:layout_width="25dp"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@id/show_yinbiao"
+            android:text=""
+            android:foreground="@drawable/icon_voice1"
+            android:layout_marginBottom="1dp"
+            android:textSize="20sp"/>
+
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/show_exp"
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:layout_below="@id/base"
+        android:text=""
+        android:singleLine="false"
+        android:textSize="18sp"
+        android:background="#C7EDCC"
+        android:padding="15dp"/>
+    <Button
+        android:id="@+id/show_detail"
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:layout_below="@id/base"
+        android:text="点击此处可查看参考翻译"
+        android:background="@android:color/transparent" />
+
+    <LinearLayout
+        android:id="@+id/control"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+
+        <Button
+            android:id="@+id/cut_them"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:layout_height="match_parent"
+            android:text="删除该单词"
+            android:background="#ffffff"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+        <Button
+            android:id="@+id/win_it"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:layout_height="match_parent"
+            android:text="下一个句子"
+            android:background="#ffffff"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+</RelativeLayout>
